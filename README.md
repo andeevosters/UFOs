@@ -2,7 +2,7 @@
 
 ## Overview of Project: 
 Explain the purpose of this analysis.
-Dana asked for help to create a webpage that sifts through thousands of datapoints on UFOs, with recordings of sightings logging info such as date of sighting, location, duration, shape and more. We built a webpage to sort listings by date, but then Dana wanted it to be a bit more dynamic––filtering additionally by city, state, country, and shape.
+Dana asked for help to create a webpage that sifts through datapoints on UFOs, with recordings of sightings logging info such as date of sighting, location, duration, shape and more. We built a webpage to sort listings by date, but then Dana wanted it to be a bit more dynamic––filtering additionally by city, state, country, and shape.
 
 ## Results: 
 ### How To Use The Table Effectively
@@ -29,3 +29,4 @@ The filter requires searching by a particular date, but there may be a myriad of
 	* This is because the data is all saved as lower-case, and proper names are not typically searched that way. 
 	* In regards to a drop-down, this would help people to know not to search for the United States as such, but rather as "us".
 	* Alternatively, the data itself could be cleaned up and formatted for optimal search results.
+	* More data can be added to the table so that there's more than two weeks of data to parse through.
