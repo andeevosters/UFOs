@@ -13,7 +13,7 @@ Once a date is chosen, you can further refine your table by entering any or all 
 ![Table_USfilter](https://github.com/andeevosters/UFOs/blob/main/Static/images/Table_USfilter.png)
 
 Upon further filtering, we see that one of those was round.
-![Table_USshapeFilter](https://github.com/andeevosters/UFOs/blob/main/Static/images/Table_USshapefilter.png)
+![Table_USshapeFilter](https://github.com/andeevosters/UFOs/blob/main/Static/images/Table_USshapeFilter.png)
 
 
 ## Summary: 
