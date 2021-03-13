@@ -7,13 +7,13 @@ Dana asked for help to create a webpage that sifts through thousands of datapoin
 ## Results: 
 ### How To Use The Table Effectively
 This updated table is quite handy to see how many sightings happened on a particular date, filtered by geographic areas and/or by their particular shape. In order to use the filtered table effectively, one must choose a date in which to conduct the search, or filter, and hit 'enter'. Without a date prescribed, a result simply will not work.
-![Table_noFilter](https://github.com/andeevosters/Pewlett_Hackard_Analysis/blob/main/Visuals/unique_titles_90398.png)
+![Table_noFilter](https://github.com/andeevosters/UFOs/blob/main/Static/images/Table_noFilter.png)
 
 Once a date is chosen, you can further refine your table by entering any or all of the other filters as desired, and hitting 'enter' after the last filter inputted. For instance, you might be interested to know how many sightings took place on January 13, 2010 in the United States (answer = 3).
-[Table_USfilter] 
+![Table_USfilter](https://github.com/andeevosters/UFOs/blob/main/Static/images/Table_USfilter.png)
 
 Upon further filtering, we see that one of those was round.
-[Table_USshapeFilter]
+![Table_USshapeFilter](https://github.com/andeevosters/UFOs/blob/main/Static/images/Table_USshapefilter.png)
 
 
 ## Summary: 
